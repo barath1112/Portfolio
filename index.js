@@ -6,8 +6,10 @@ var typed = new Typed(".text",{
     loop:true
 });
 
+
+
 (function () {
-    emailjs.init('237ocI-GcwYaM2wU6');
+    emailjs.init('Ct_Aq0BWDpV0ugHWQ');
 })();
 
 document.getElementById('contact-form').addEventListener('submit', function (event) {
@@ -23,7 +25,7 @@ document.getElementById('contact-form').addEventListener('submit', function (eve
 
     alert("Your response will be recorded!");
 
-    emailjs.sendForm('service_4gmnric', 'template_ic54ksk', this)
+    emailjs.sendForm('service_ud3vt2d', 'template_ll30uyh', this)
         .then(function (response) {
             alert("Message sent successfully!");
         }, function (error) {
