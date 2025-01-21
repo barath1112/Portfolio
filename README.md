@@ -11,4 +11,4 @@ HTML5: For creating the structure and layout of the website.
 CSS3: For styling, animations, and responsive design.
 JavaScript: For interactivity and dynamic behavior.
 # Project URL 
-[My Portfolio] (https://barath1112.github.io/Portfolio/)
+[My Portfolio](https://barath1112.github.io/Portfolio/)
